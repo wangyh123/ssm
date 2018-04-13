@@ -3,10 +3,8 @@
 <head>
     <meta charset="UTF-8">
     <title>Basic Form - jQuery EasyUI Demo</title>
-    <link rel="stylesheet" type="text/css" href="/js/easyui/themes/default/easyui.css">
-    <link rel="stylesheet" type="text/css" href="/js/easyui/themes/icon.css">
-    <script type="text/javascript" src="/js/easyui/jquery.min.js"></script>
-    <script type="text/javascript" src="/js/easyui/jquery.easyui.min.js"></script>
+    <%@include file="/common/taglibs.jsp"%>
+    <%@include file="/common/easyui.jsp"%>
 </head>
 <body>
 <h2>Basic Form</h2>

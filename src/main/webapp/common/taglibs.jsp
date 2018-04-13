@@ -6,4 +6,4 @@
 <%--<%@ taglib prefix="sec" uri="http://www.springframework.org/security/tags"%>
 <%@ taglib uri="http://www.springsecurity.org/jsp" prefix="security"%>--%>
 <c:set var="ctx" value="${pageContext.request.contextPath}"/>
-<c:set var="APP_NAME" value="SSM"/>
+<%--<c:set var="APP_NAME" value="SSM"/>--%>

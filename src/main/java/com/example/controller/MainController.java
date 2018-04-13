@@ -14,7 +14,7 @@ public class MainController {
 
     @RequestMapping("list")
     public String list(){
-        return "userManager";
+        return "baseForm";
     }
 
 
